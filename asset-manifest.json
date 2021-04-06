@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/karishmacarterjohnson.github.io/markdown-editor/static/css/main.bbcf131c.chunk.css",
+    "main.js": "/karishmacarterjohnson.github.io/markdown-editor/static/js/main.5ff1ba79.chunk.js",
+    "main.js.map": "/karishmacarterjohnson.github.io/markdown-editor/static/js/main.5ff1ba79.chunk.js.map",
+    "runtime-main.js": "/karishmacarterjohnson.github.io/markdown-editor/static/js/runtime-main.d7dcdb31.js",
+    "runtime-main.js.map": "/karishmacarterjohnson.github.io/markdown-editor/static/js/runtime-main.d7dcdb31.js.map",
+    "static/js/2.5fbe31fe.chunk.js": "/karishmacarterjohnson.github.io/markdown-editor/static/js/2.5fbe31fe.chunk.js",
+    "static/js/2.5fbe31fe.chunk.js.map": "/karishmacarterjohnson.github.io/markdown-editor/static/js/2.5fbe31fe.chunk.js.map",
+    "index.html": "/karishmacarterjohnson.github.io/markdown-editor/index.html",
+    "static/css/main.bbcf131c.chunk.css.map": "/karishmacarterjohnson.github.io/markdown-editor/static/css/main.bbcf131c.chunk.css.map",
+    "static/js/2.5fbe31fe.chunk.js.LICENSE.txt": "/karishmacarterjohnson.github.io/markdown-editor/static/js/2.5fbe31fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7dcdb31.js",
+    "static/js/2.5fbe31fe.chunk.js",
+    "static/css/main.bbcf131c.chunk.css",
+    "static/js/main.5ff1ba79.chunk.js"
+  ]
+}
